@@ -1,4 +1,4 @@
-# tugas_UAS
+# TUGAS UAS
 
 ## Demo
 - [Link Demo](http://localhost:8080/antrianno)
